@@ -1,0 +1,15 @@
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\bin\Debug\net6.0\GeoShape.exe
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\bin\Debug\net6.0\GeoShape.deps.json
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\bin\Debug\net6.0\GeoShape.runtimeconfig.json
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\bin\Debug\net6.0\GeoShape.dll
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\bin\Debug\net6.0\GeoShape.pdb
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.csproj.AssemblyReference.cache
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.AssemblyInfoInputs.cache
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.AssemblyInfo.cs
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.csproj.CoreCompileInputs.cache
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.dll
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\refint\GeoShape.dll
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.pdb
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\GeoShape.genruntimeconfig.cache
+C:\Users\tokah\source\repos\ITI_Tasks\GeoShape\obj\Debug\net6.0\ref\GeoShape.dll

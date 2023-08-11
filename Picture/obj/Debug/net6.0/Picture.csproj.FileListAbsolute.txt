@@ -1,0 +1,15 @@
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\bin\Debug\net6.0\Picture.exe
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\bin\Debug\net6.0\Picture.deps.json
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\bin\Debug\net6.0\Picture.runtimeconfig.json
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\bin\Debug\net6.0\Picture.dll
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\bin\Debug\net6.0\Picture.pdb
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.csproj.AssemblyReference.cache
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.AssemblyInfoInputs.cache
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.AssemblyInfo.cs
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.csproj.CoreCompileInputs.cache
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.dll
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\refint\Picture.dll
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.pdb
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\Picture.genruntimeconfig.cache
+C:\Users\tokah\source\repos\ITI_Tasks\Picture\obj\Debug\net6.0\ref\Picture.dll
